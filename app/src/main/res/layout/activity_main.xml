@@ -14,6 +14,7 @@
         android:ems="10"
         android:hint="imagelink"
         android:inputType="textPersonName"
+        android:text="https://i.ytimg.com/vi/Os9kYg6PF-8/maxresdefault.jpg"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,7 +32,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imagelinkEditText"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@android:drawable/btn_star" />
+        app:srcCompat="@drawable/france" />
 
     <Button
         android:id="@+id/readImageButton"
